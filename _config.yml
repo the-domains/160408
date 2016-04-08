@@ -1,14 +1,8 @@
-layout_spectrum: 0.7762112
-typography_spectrum: 0.4543069
+layout_spectrum: 1
 color:
-  saturation: 0.543941
-  lightness: 0.1378042
-  brandStrength: 0.1262753
-  rhythmicContrast: 0.4546283
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+  saturation: 0.3064516
+  lightness: 0.983871
+  brandStrength: 0.6774194
+  rhythmicContrast: 0.811828
+typography_spectrum: 0.4543069
 name: '160408'
